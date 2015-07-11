@@ -163,7 +163,7 @@ void EAL_HEIGHT(CGFloat aHeight, UIView* aView)
     [aToView addConstraint:cn];
 }
 
-+ (void)topSpaceView:(UIView *)aView toView:(UIView *)aToView space:(CGFloat)aSpace
++ (void)topSpace:(CGFloat)aSpace view:(UIView *)aView toView:(UIView *)aToView
 {
     NSParameterAssert(aView);
     NSParameterAssert(aToView);
