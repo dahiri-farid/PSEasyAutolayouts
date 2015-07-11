@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'PSEasyAutolayouts_Example', :exclusive => true do
+  pod "PSEasyAutolayouts", :path => "../"
+end
+
+target 'PSEasyAutolayouts_Tests', :exclusive => true do
+  pod "PSEasyAutolayouts", :path => "../"
+
+  
+end
