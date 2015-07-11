@@ -1,0 +1,14 @@
+PODS:
+  - PSEasyAutolayouts (0.1.0)
+
+DEPENDENCIES:
+  - PSEasyAutolayouts (from `../`)
+
+EXTERNAL SOURCES:
+  PSEasyAutolayouts:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PSEasyAutolayouts: d173c49a7773b24eab97385dd46b057b0fa4858d
+
+COCOAPODS: 0.37.2

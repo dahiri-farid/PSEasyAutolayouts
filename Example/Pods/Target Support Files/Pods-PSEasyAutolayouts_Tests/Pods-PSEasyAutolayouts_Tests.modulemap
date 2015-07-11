@@ -1,0 +1,6 @@
+framework module Pods_PSEasyAutolayouts_Tests {
+  umbrella header "Pods-PSEasyAutolayouts_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
