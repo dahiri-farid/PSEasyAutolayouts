@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "PSEasyAutolayouts"
-  s.version          = "0.1.0"
+  s.version          = "0.1.2"
   s.summary          = "PSEasyAutolayouts - autolayouts easy"
   s.description      = "Allows you easly add most used Autolayouts constraints."
   s.homepage         = "https://github.com/dahiri-farid/PSEasyAutolayouts"
